@@ -4,7 +4,7 @@
 
 2、打开界面如图
 
-![[BOM_Check/png/001.png at main · mygithubma/BOM_Check](https://github.com/mygithubma/BOM_Check/blob/main/png/001.png)]()
+![图片名](https://raw.githubusercontent.com/mygithubma/BOM_Check/main/png/001.png)
 
 3、点击加载BOM1和加载BOM2自动跳转选择自己的两份BOM
 
